@@ -6,7 +6,7 @@ import Layout from './Layout';
 const App = () => {
   return (
     <div >
-      <h2 >App</h2>
+   
       <p>hkkl</p>
       {/* <Condition/> */}
       <Layout/>
