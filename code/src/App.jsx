@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div >
    
-      <p>hkkl</p>
+    
       {/* <Condition/> */}
       <Layout/>
     </div>
